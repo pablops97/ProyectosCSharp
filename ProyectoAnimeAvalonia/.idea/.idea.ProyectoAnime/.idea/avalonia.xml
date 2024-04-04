@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ProyectoAnime/CustomDialog.axaml" value="ProyectoAnime/ProyectoAnime.csproj" />
+        <entry key="ProyectoAnime/CustomDialogSiNo.axaml" value="ProyectoAnime/ProyectoAnime.csproj" />
+        <entry key="ProyectoAnime/MainWindow.axaml" value="ProyectoAnime/ProyectoAnime.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

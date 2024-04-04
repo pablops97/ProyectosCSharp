@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimerProyectoPPS", "PrimerProyectoPPS\PrimerProyectoPPS.csproj", "{C744C615-32E7-4F9E-93C4-9E8229F22B89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProyectoAnimeSetup", "ProyectoAnimeSetup\ProyectoAnimeSetup.vdproj", "{88ED0F81-30CF-4179-9CC0-781E9A679921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C744C615-32E7-4F9E-93C4-9E8229F22B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C744C615-32E7-4F9E-93C4-9E8229F22B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C744C615-32E7-4F9E-93C4-9E8229F22B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C744C615-32E7-4F9E-93C4-9E8229F22B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ED0F81-30CF-4179-9CC0-781E9A679921}.Debug|Any CPU.ActiveCfg = Debug
+		{88ED0F81-30CF-4179-9CC0-781E9A679921}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416A5F3C-A867-4746-B2A7-39D54CA0D154}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

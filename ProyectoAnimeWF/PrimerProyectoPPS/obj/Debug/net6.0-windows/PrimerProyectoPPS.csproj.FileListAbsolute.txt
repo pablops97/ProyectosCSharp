@@ -1,0 +1,16 @@
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\bin\Debug\net6.0-windows\PrimerProyectoPPS.exe
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\bin\Debug\net6.0-windows\PrimerProyectoPPS.deps.json
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\bin\Debug\net6.0-windows\PrimerProyectoPPS.runtimeconfig.json
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\bin\Debug\net6.0-windows\PrimerProyectoPPS.dll
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\bin\Debug\net6.0-windows\PrimerProyectoPPS.pdb
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.Form1.resources
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.csproj.GenerateResource.cache
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.AssemblyInfoInputs.cache
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.AssemblyInfo.cs
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.csproj.CoreCompileInputs.cache
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.dll
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\refint\PrimerProyectoPPS.dll
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.pdb
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\PrimerProyectoPPS.genruntimeconfig.cache
+C:\Users\ConoMaster\source\repos\PrimerProyectoPPS\PrimerProyectoPPS\obj\Debug\net6.0-windows\ref\PrimerProyectoPPS.dll

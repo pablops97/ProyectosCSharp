@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxQhO1VK769BYecIDPO4GF6Dp6frpCVl9clDmnu3J6NxJLA6VGOudu16OLrVDC2nU0pKHV+x1cTygCV/B8z9QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ConoMaster\\source\\repos\\PrimerProyectoPPS\\PrimerProyectoPPS\\PrimerProyectoPPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ConoMaster\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ConoMaster\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ConoMaster\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ConoMaster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
